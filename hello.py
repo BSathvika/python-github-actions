@@ -1,2 +1,2 @@
 def say_hello():
-  return "Hello fom Github Actions" 
+  return "Hello from Github Actions" 
